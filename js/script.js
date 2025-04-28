@@ -23,7 +23,7 @@ const config = {
             ui: {
                 btnHappyText: '返回',
                 titleText: '已取消',
-                subtitleText: '感谢您继续使用本插件'
+                subtitleText: '俺也喜欢你'
             }
         },
         unhappy: {
