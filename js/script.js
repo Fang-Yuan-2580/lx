@@ -22,7 +22,7 @@ const config = {
             face: { happiness: 1, derp: 0, px: 0.5, py: 0.5 },
             ui: {
                 btnHappyText: '返回',
-                titleText: '已取消',
+                titleText: '喜欢',
                 subtitleText: '俺也喜欢你'
             }
         },
